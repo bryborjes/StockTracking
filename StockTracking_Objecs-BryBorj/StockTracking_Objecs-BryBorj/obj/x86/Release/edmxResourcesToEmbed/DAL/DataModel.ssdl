@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="StockTracking3AModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="StockTracking3AModelStoreContainer">
+    <EntitySet Name="CATEGORY" EntityType="StockTracking3AModel.Store.CATEGORY" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CUSTOMERS" EntityType="StockTracking3AModel.Store.CUSTOMERS" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PRODUCT" EntityType="StockTracking3AModel.Store.PRODUCT" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="SALES" EntityType="StockTracking3AModel.Store.SALES" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="USER" EntityType="StockTracking3AModel.Store.USER" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="CATEGORY">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CategoryName" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="isDeleted" Type="bit" Nullable="false" />
+    <Property Name="DeletedDate" Type="date" />
+  </EntityType>
+  <EntityType Name="CUSTOMERS">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CustomerName" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="isDeleted" Type="bit" Nullable="false" />
+    <Property Name="DeletedDate" Type="date" />
+  </EntityType>
+  <EntityType Name="PRODUCT">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ProductName" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="CategoryID" Type="int" Nullable="false" />
+    <Property Name="StockAmount" Type="int" Nullable="false" />
+    <Property Name="Price" Type="real" Nullable="false" />
+    <Property Name="isDeleted" Type="bit" Nullable="false" />
+    <Property Name="DeletedDate" Type="date" />
+  </EntityType>
+  <EntityType Name="SALES">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ProductID" Type="int" Nullable="false" />
+    <Property Name="CategoryID" Type="int" Nullable="false" />
+    <Property Name="CustomerID" Type="int" Nullable="false" />
+    <Property Name="ProductSalesAmount" Type="int" Nullable="false" />
+    <Property Name="ProductSalesPrice" Type="real" Nullable="false" />
+    <Property Name="SalesDate" Type="date" Nullable="false" />
+    <Property Name="isDeleted" Type="bit" Nullable="false" />
+    <Property Name="DeletedDate" Type="date" />
+  </EntityType>
+  <EntityType Name="USER">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="Password" Type="varchar" Nullable="false" MaxLength="10" />
+    <Property Name="Name" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="Surname" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="AccesLevel" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="PhotographyPth" Type="varchar(max)" Nullable="false" />
+    <Property Name="isDeleted" Type="bit" Nullable="false" />
+    <Property Name="DeletedDate" Type="date" />
+  </EntityType>
+</Schema>

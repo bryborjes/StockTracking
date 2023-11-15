@@ -1,0 +1,264 @@
+c:\users\3a-05\documents\visual studio 2010\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\bin\Debug\StockTracking_Objecs-BryBorj.exe
+c:\users\3a-05\documents\visual studio 2010\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\bin\Debug\StockTracking_Objecs-BryBorj.pdb
+c:\users\3a-05\documents\visual studio 2010\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCategory.resources
+c:\users\3a-05\documents\visual studio 2010\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmStockAlert.resources
+c:\users\3a-05\documents\visual studio 2010\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.Properties.Resources.resources
+c:\users\3a-05\documents\visual studio 2010\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs-BryBorj.csproj.GenerateResource.Cache
+c:\users\3a-05\documents\visual studio 2010\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs-BryBorj.exe
+c:\users\3a-05\documents\visual studio 2010\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs-BryBorj.pdb
+C:\Users\3A-05\documents\visual studio 2010\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCategoryList.resources
+C:\Users\3A-05\documents\visual studio 2010\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs-BryBorj.csprojResolveAssemblyReference.cache
+C:\Users\3A-05\documents\visual studio 2010\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmProduct.resources
+C:\Users\3A-05\documents\visual studio 2010\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmProductList.resources
+C:\Users\3A-05\documents\visual studio 2010\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCustomer.resources
+C:\Users\3A-05\documents\visual studio 2010\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCustomerList.resources
+C:\Users\3A-05\documents\visual studio 2010\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmDeletedRecords.resources
+C:\Users\3A-05\documents\visual studio 2010\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmMain.resources
+C:\Users\3A-05\documents\visual studio 2010\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmSales.resources
+C:\Users\3A-05\documents\visual studio 2010\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmSalesList.resources
+C:\Users\3A-05\documents\visual studio 2010\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmStockAdd.resources
+C:\Users\3A-05\Documents\Visual Studio 2010\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\bin\Debug\StockTracking_Objecs-BryBorj.exe.config
+G:\User Zona\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCategory.resources
+G:\User Zona\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCategoryList.resources
+G:\User Zona\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCustomer.resources
+G:\User Zona\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCustomerList.resources
+G:\User Zona\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmDeletedRecords.resources
+G:\User Zona\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmMain.resources
+G:\User Zona\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmProduct.resources
+G:\User Zona\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmProductList.resources
+G:\User Zona\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmSales.resources
+G:\User Zona\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmSalesList.resources
+G:\User Zona\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmStockAdd.resources
+G:\User Zona\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmStockAlert.resources
+G:\User Zona\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.Properties.Resources.resources
+G:\User Zona\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs-BryBorj.csproj.GenerateResource.Cache
+K:\User Zona\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\bin\Debug\StockTracking_Objecs-BryBorj.exe.config
+G:\User Zona\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\bin\Debug\Stock-Taking.exe.config
+G:\User Zona\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\bin\Debug\Stock-Taking.exe
+G:\User Zona\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\bin\Debug\Stock-Taking.pdb
+G:\User Zona\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.AboutBox1.resources
+G:\User Zona\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\Stock-Taking.exe
+G:\User Zona\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\Stock-Taking.pdb
+E:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.AboutBox1.resources
+E:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCategory.resources
+E:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCategoryList.resources
+E:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCustomer.resources
+E:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCustomerList.resources
+E:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmDeletedRecords.resources
+E:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmMain.resources
+E:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmProduct.resources
+E:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmProductList.resources
+E:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmSales.resources
+E:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmSalesList.resources
+E:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmStockAdd.resources
+E:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmStockAlert.resources
+E:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.Properties.Resources.resources
+E:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs-BryBorj.csproj.GenerateResource.Cache
+E:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\bin\Debug\Stock-Tacking.exe.config
+E:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\Stock-Tacking.exe
+E:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\Stock-Tacking.pdb
+E:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\bin\Debug\Stock-Tacking.exe
+E:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\bin\Debug\Stock-Tacking.pdb
+E:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs-BryBorj.csprojResolveAssemblyReference.cache
+K:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\bin\Debug\Stock-Tacking.exe.config
+K:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\Stock-Tacking.exe
+K:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\Stock-Tacking.pdb
+G:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.AboutBox1.resources
+G:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCategory.resources
+G:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCategoryList.resources
+G:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCustomer.resources
+G:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCustomerList.resources
+G:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmDeletedRecords.resources
+G:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmMain.resources
+G:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmProduct.resources
+G:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmProductList.resources
+G:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmSales.resources
+G:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmSalesList.resources
+G:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmStockAdd.resources
+G:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmStockAlert.resources
+G:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.Properties.Resources.resources
+G:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs-BryBorj.csproj.GenerateResource.Cache
+G:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\bin\Debug\Stock-Tacking.exe.config
+G:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\bin\Debug\Stock-Tacking.exe
+G:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\bin\Debug\Stock-Tacking.pdb
+G:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\Stock-Tacking.exe
+G:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\Stock-Tacking.pdb
+E:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmLogin.resources
+G:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmLogin.resources
+G:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmUser.resources
+G:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmUserList.resources
+G:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs-BryBorj.csprojResolveAssemblyReference.cache
+E:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmUser.resources
+E:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmUserList.resources
+K:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\bin\Debug\Stock-Tacking.exe
+K:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\bin\Debug\Stock-Tacking.pdb
+K:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs-BryBorj.csprojResolveAssemblyReference.cache
+K:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.AboutBox1.resources
+K:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCategory.resources
+K:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCategoryList.resources
+K:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCustomer.resources
+K:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCustomerList.resources
+K:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmDeletedRecords.resources
+K:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmLogin.resources
+K:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmMain.resources
+K:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmProduct.resources
+K:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmProductList.resources
+K:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmSales.resources
+K:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmSalesList.resources
+K:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmStockAdd.resources
+K:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmStockAlert.resources
+K:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmUser.resources
+K:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmUserList.resources
+K:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.Properties.Resources.resources
+K:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs-BryBorj.csproj.GenerateResource.Cache
+G:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmReportAll.resources
+G:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\RdlCompile.cache
+G:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\RdlCompile.compiled
+E:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmReportAll.resources
+E:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\RdlCompile.cache
+E:\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Bryan Borjes\Desktop\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\bin\Debug\Stock-Tacking.exe.config
+C:\Users\Bryan Borjes\Desktop\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\Stock-Tacking.exe
+C:\Users\Bryan Borjes\Desktop\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\Stock-Tacking.pdb
+C:\Users\Bryan Borjes\Desktop\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\bin\Debug\Stock-Tacking.exe
+C:\Users\Bryan Borjes\Desktop\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\bin\Debug\Stock-Tacking.pdb
+C:\Users\Bryan Borjes\Desktop\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs-BryBorj.csprojResolveAssemblyReference.cache
+C:\Users\Bryan Borjes\Desktop\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.AboutBox1.resources
+C:\Users\Bryan Borjes\Desktop\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCategory.resources
+C:\Users\Bryan Borjes\Desktop\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCategoryList.resources
+C:\Users\Bryan Borjes\Desktop\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCustomer.resources
+C:\Users\Bryan Borjes\Desktop\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCustomerList.resources
+C:\Users\Bryan Borjes\Desktop\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmDeletedRecords.resources
+C:\Users\Bryan Borjes\Desktop\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmLogin.resources
+C:\Users\Bryan Borjes\Desktop\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmMain.resources
+C:\Users\Bryan Borjes\Desktop\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmProduct.resources
+C:\Users\Bryan Borjes\Desktop\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmProductList.resources
+C:\Users\Bryan Borjes\Desktop\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmSales.resources
+C:\Users\Bryan Borjes\Desktop\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmSalesList.resources
+C:\Users\Bryan Borjes\Desktop\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmStockAdd.resources
+C:\Users\Bryan Borjes\Desktop\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmStockAlert.resources
+C:\Users\Bryan Borjes\Desktop\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmUser.resources
+C:\Users\Bryan Borjes\Desktop\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmUserList.resources
+C:\Users\Bryan Borjes\Desktop\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.Properties.Resources.resources
+C:\Users\Bryan Borjes\Desktop\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs-BryBorj.csproj.GenerateResource.Cache
+C:\Users\Bryan Borjes\Desktop\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\RdlCompile.cache
+C:\Users\Bryan Borjes\Desktop\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Bryan Borjes\Desktop\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCategoryReport.resources
+C:\Users\Bryan Borjes\Desktop\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCustomerReport.resources
+C:\Users\Bryan Borjes\Desktop\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmProductReport.resources
+C:\Users\Bryan Borjes\Desktop\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmUserReport.resources
+E:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\bin\Debug\Stock-Tacking.exe.config
+E:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\Stock-Tacking.exe
+E:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\Stock-Tacking.pdb
+E:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs-BryBorj.csprojResolveAssemblyReference.cache
+E:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.AboutBox1.resources
+E:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCategory.resources
+E:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCategoryList.resources
+E:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCategoryReport.resources
+E:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCustomer.resources
+E:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCustomerList.resources
+E:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCustomerReport.resources
+E:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmDeletedRecords.resources
+E:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmLogin.resources
+E:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmMain.resources
+E:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmProduct.resources
+E:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmProductList.resources
+E:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmProductReport.resources
+E:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmSaleReport.resources
+E:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmSales.resources
+E:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmSalesList.resources
+E:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmStockAdd.resources
+E:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmStockAlert.resources
+E:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmUser.resources
+E:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmUserList.resources
+E:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmUserReport.resources
+E:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.Properties.Resources.resources
+E:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs-BryBorj.csproj.GenerateResource.Cache
+E:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\RdlCompile.cache
+E:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\RdlCompile.compiled
+E:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\bin\Debug\Stock-Tacking.exe
+E:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\bin\Debug\Stock-Tacking.pdb
+G:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\bin\Debug\Stock-Tacking.exe.config
+G:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\Stock-Tacking.exe
+G:\Nueva carpeta\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\Stock-Tacking.pdb
+C:\Users\Bryan Borjes\Desktop\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmSalesReport.resources
+D:\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs-BryBorj.csproj.AssemblyReference.cache
+D:\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs-BryBorj.csproj.SuggestedBindingRedirects.cache
+D:\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.AboutBox1.resources
+D:\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCategory.resources
+D:\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCategoryList.resources
+D:\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCategoryReport.resources
+D:\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCustomer.resources
+D:\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCustomerList.resources
+D:\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCustomerReport.resources
+D:\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmDeletedRecords.resources
+D:\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmLogin.resources
+D:\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmMain.resources
+D:\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmProduct.resources
+D:\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmProductList.resources
+D:\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmProductReport.resources
+D:\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmSalesReport.resources
+D:\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmSales.resources
+D:\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmSalesList.resources
+D:\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmStockAdd.resources
+D:\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmStockAlert.resources
+D:\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmUser.resources
+D:\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmUserList.resources
+D:\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmUserReport.resources
+D:\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.Properties.Resources.resources
+D:\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs-BryBorj.csproj.GenerateResource.cache
+D:\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs-BryBorj.csproj.CoreCompileInputs.cache
+D:\USB PLT\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs-BryBorj.csproj.AssemblyReference.cache
+D:\USB PLT\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs-BryBorj.csproj.SuggestedBindingRedirects.cache
+D:\USB PLT\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.AboutBox1.resources
+D:\USB PLT\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCategory.resources
+D:\USB PLT\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCategoryList.resources
+D:\USB PLT\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCategoryReport.resources
+D:\USB PLT\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCustomer.resources
+D:\USB PLT\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCustomerList.resources
+D:\USB PLT\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCustomerReport.resources
+D:\USB PLT\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmDeletedRecords.resources
+D:\USB PLT\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmLogin.resources
+D:\USB PLT\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmMain.resources
+D:\USB PLT\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmProduct.resources
+D:\USB PLT\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmProductList.resources
+D:\USB PLT\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmProductReport.resources
+D:\USB PLT\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmSalesReport.resources
+D:\USB PLT\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmSales.resources
+D:\USB PLT\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmSalesList.resources
+D:\USB PLT\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmStockAdd.resources
+D:\USB PLT\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmStockAlert.resources
+D:\USB PLT\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmUser.resources
+D:\USB PLT\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmUserList.resources
+D:\USB PLT\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmUserReport.resources
+D:\USB PLT\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.Properties.Resources.resources
+D:\USB PLT\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs-BryBorj.csproj.GenerateResource.cache
+D:\USB PLT\CBTIS 254\CBTis()Semestres\3° Semestre Trabajos\Programacion_Objetos\Projects\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs-BryBorj.csproj.CoreCompileInputs.cache
+C:\Users\bryan\OneDrive\Escritorio\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs-BryBorj.csproj.AssemblyReference.cache
+C:\Users\bryan\OneDrive\Escritorio\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs-BryBorj.csproj.SuggestedBindingRedirects.cache
+C:\Users\bryan\OneDrive\Escritorio\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.AboutBox1.resources
+C:\Users\bryan\OneDrive\Escritorio\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCategory.resources
+C:\Users\bryan\OneDrive\Escritorio\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCategoryList.resources
+C:\Users\bryan\OneDrive\Escritorio\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCustomer.resources
+C:\Users\bryan\OneDrive\Escritorio\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmCustomerList.resources
+C:\Users\bryan\OneDrive\Escritorio\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmDeletedRecords.resources
+C:\Users\bryan\OneDrive\Escritorio\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmLogin.resources
+C:\Users\bryan\OneDrive\Escritorio\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmMain.resources
+C:\Users\bryan\OneDrive\Escritorio\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmProduct.resources
+C:\Users\bryan\OneDrive\Escritorio\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmProductList.resources
+C:\Users\bryan\OneDrive\Escritorio\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmSales.resources
+C:\Users\bryan\OneDrive\Escritorio\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmSalesList.resources
+C:\Users\bryan\OneDrive\Escritorio\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmStockAdd.resources
+C:\Users\bryan\OneDrive\Escritorio\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmStockAlert.resources
+C:\Users\bryan\OneDrive\Escritorio\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.FrmUser.resources
+C:\Users\bryan\OneDrive\Escritorio\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs_BryBorj.Properties.Resources.resources
+C:\Users\bryan\OneDrive\Escritorio\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs-BryBorj.csproj.GenerateResource.cache
+C:\Users\bryan\OneDrive\Escritorio\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs-BryBorj.csproj.CoreCompileInputs.cache
+C:\Users\bryan\OneDrive\Escritorio\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\bin\Debug\Stock-Tacking.exe.config
+C:\Users\bryan\OneDrive\Escritorio\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\bin\Debug\Stock-Tacking.exe
+C:\Users\bryan\OneDrive\Escritorio\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\bin\Debug\Stock-Tacking.pdb
+C:\Users\bryan\OneDrive\Escritorio\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\bin\Debug\EntityFramework.dll
+C:\Users\bryan\OneDrive\Escritorio\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\bin\Debug\EntityFramework.xml
+C:\Users\bryan\OneDrive\Escritorio\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\StockTracking_Objecs-BryBorj.csproj.CopyComplete
+C:\Users\bryan\OneDrive\Escritorio\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\Stock-Tacking.exe
+C:\Users\bryan\OneDrive\Escritorio\StockTracking_Objecs-BryBorj\StockTracking_Objecs-BryBorj\obj\x86\Debug\Stock-Tacking.pdb
