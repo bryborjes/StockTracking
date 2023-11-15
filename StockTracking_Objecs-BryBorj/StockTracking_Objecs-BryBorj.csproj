@@ -1,0 +1,529 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{65A5B767-B0ED-474B-9443-C45F93632E63}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>StockTracking_Objecs_BryBorj</RootNamespace>
+    <AssemblyName>Stock-Tacking</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>SecurityRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.5.0.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutBox1.Designer.cs">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BLL\CategoryBLL.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BLL\CustomerBLL.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BLL\IBLL.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BLL\ProductBLL.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BLL\SalesBLL.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BLL\UserBLL.cs" />
+    <Compile Include="DAL\CATEGORY.cs">
+      <DependentUpon>DataModel0.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\CUSTOMERS.cs">
+      <DependentUpon>DataModel0.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\DAO\CategoryDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DAL\DAO\CustomerDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DAL\DAO\IDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DAL\DAO\ProductDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DAL\DAO\SalesDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DAL\DAO\StockContext.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DAL\DAO\UserDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DAL\DataModel0.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataModel0.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\DataModel0.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataModel0.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\DataModel0.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataModel0.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\DTO\CategoryDetailDTO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DAL\DTO\CategoryDTO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DAL\DTO\CustomerDetailDTO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DAL\DTO\CustomerDTO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DAL\DTO\ProductDetailDTO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DAL\DTO\ProductDTO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DAL\DTO\SalesDetailDTO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DAL\DTO\SalesDTO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DAL\DTO\UserDetailDTO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DAL\DTO\UserDTO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DAL\PRODUCT.cs">
+      <DependentUpon>DataModel0.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\SALES.cs">
+      <DependentUpon>DataModel0.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\USER.cs">
+      <DependentUpon>DataModel0.tt</DependentUpon>
+    </Compile>
+    <Compile Include="dstCategory.cs">
+      <DependentUpon>dstCategory.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dstCategory.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dstCategory.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dstCustomer.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dstCustomer.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dstProduct.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dstProduct.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dstSale.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dstSale.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dstUser.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dstUser.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCategory.Designer.cs">
+      <DependentUpon>FrmCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCategoryList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCategoryList.Designer.cs">
+      <DependentUpon>FrmCategoryList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCustomer.Designer.cs">
+      <DependentUpon>FrmCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCustomerList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCustomerList.Designer.cs">
+      <DependentUpon>FrmCustomerList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDeletedRecords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDeletedRecords.Designer.cs">
+      <DependentUpon>FrmDeletedRecords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProduct.Designer.cs">
+      <DependentUpon>FrmProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProductList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProductList.Designer.cs">
+      <DependentUpon>FrmProductList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSales.Designer.cs">
+      <DependentUpon>FrmSales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSalesList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSalesList.Designer.cs">
+      <DependentUpon>FrmSalesList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmStockAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmStockAdd.Designer.cs">
+      <DependentUpon>FrmStockAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmStockAlert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmStockAlert.Designer.cs">
+      <DependentUpon>FrmStockAlert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUser.Designer.cs">
+      <DependentUpon>FrmUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AboutBox1.resx">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCategory.resx">
+      <DependentUpon>FrmCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCategoryList.resx">
+      <DependentUpon>FrmCategoryList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCustomer.resx">
+      <DependentUpon>FrmCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCustomerList.resx">
+      <DependentUpon>FrmCustomerList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDeletedRecords.resx">
+      <DependentUpon>FrmDeletedRecords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProduct.resx">
+      <DependentUpon>FrmProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProductList.resx">
+      <DependentUpon>FrmProductList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSales.resx">
+      <DependentUpon>FrmSales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSalesList.resx">
+      <DependentUpon>FrmSalesList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmStockAdd.resx">
+      <DependentUpon>FrmStockAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmStockAlert.resx">
+      <DependentUpon>FrmStockAlert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUser.resx">
+      <DependentUpon>FrmUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCustomer.rdlc" />
+    <EmbeddedResource Include="ReportProduct.rdlc" />
+    <EmbeddedResource Include="ReportSale.rdlc" />
+    <EmbeddedResource Include="ReportCategory.rdlc" />
+    <EmbeddedResource Include="ReportUser.rdlc" />
+    <None Include="App.Config" />
+    <EntityDeploy Include="DAL\DataModel0.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>DataModel0.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="DAL\DataModel0.edmx.diagram">
+      <DependentUpon>DataModel0.edmx</DependentUpon>
+    </None>
+    <None Include="dstCategory.xsc">
+      <DependentUpon>dstCategory.xsd</DependentUpon>
+    </None>
+    <None Include="dstCategory.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dstCategory.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dstCategory.xss">
+      <DependentUpon>dstCategory.xsd</DependentUpon>
+    </None>
+    <None Include="dstCustomer.xsc">
+      <DependentUpon>dstCustomer.xsd</DependentUpon>
+    </None>
+    <None Include="dstCustomer.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dstCustomer.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dstCustomer.xss">
+      <DependentUpon>dstCustomer.xsd</DependentUpon>
+    </None>
+    <None Include="dstProduct.xsc">
+      <DependentUpon>dstProduct.xsd</DependentUpon>
+    </None>
+    <None Include="dstProduct.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dstProduct.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dstProduct.xss">
+      <DependentUpon>dstProduct.xsd</DependentUpon>
+    </None>
+    <None Include="dstSale.xsc">
+      <DependentUpon>dstSale.xsd</DependentUpon>
+    </None>
+    <None Include="dstSale.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dstSale.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dstSale.xss">
+      <DependentUpon>dstSale.xsd</DependentUpon>
+    </None>
+    <None Include="dstUser.xsc">
+      <DependentUpon>dstUser.xsd</DependentUpon>
+    </None>
+    <None Include="dstUser.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dstUser.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dstUser.xss">
+      <DependentUpon>dstUser.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\StockTracking_Objecs_BryBorj.DAL.Archivate.StockTrackingAEntities6.datasource" />
+    <None Include="Properties\DataSources\StockTracking_Objecs_BryBorj.DAL.StockTracking3AEntities5.datasource" />
+    <None Include="Properties\DataSources\StockTracking_Objecs_BryBorj.DAL.StockTracking3AEntities7.datasource" />
+    <None Include="Properties\DataSources\StockTracking_Objecs_BryBorj.DAL.StockTracking3AEntities9.datasource" />
+    <None Include="Properties\DataSources\StockTracking_Objecs_BryBorj.DAL.StockTrackingAEntities.datasource" />
+    <None Include="Properties\DataSources\StockTracking_Objecs_BryBorj.DAL.StockTraking3AEntities.datasource" />
+    <None Include="Properties\DataSources\StockTracking_Objecs_BryBorj.Report.DataSetCustomersTableAdapters.CATEGORYTableAdapter.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1486486297-attribute-category-label-shop-price-price-tag-tag_81213.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\business_package_box_accept_productorpackagetoaccept_negocio_paquet_2334.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customer_person_people_woman_you_1627.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit-symbol-1_icon-icons.com_70162.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sales-by-payment-method_25410.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping-basket-add256_24909.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window_deleted_10155.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SQL.Server.Compact.3.5">
+      <Visible>False</Visible>
+      <ProductName>SQL Server Compact 3.5 SP2</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo cbtis254.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DAL\Archivate\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\theme_light_dark_icon_137104.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DAL\DataModel0.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>DataModel0.edmx</DependentUpon>
+      <LastGenOutput>DataModel0.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="DAL\DataModel0.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>DataModel0.edmx</DependentUpon>
+      <LastGenOutput>DataModel0.cs</LastGenOutput>
+    </Content>
+    <Content Include="Resources\1487716857-user_81635.png" />
+    <None Include="Resources\Users.png" />
+    <None Include="Resources\LogoOut.png" />
+    <None Include="Resources\Proyecto nuevo.png" />
+    <None Include="Resources\Cerrar-Sesion_OK.png" />
+    <None Include="Resources\Cerrar_Sesion-ST.png" />
+    <None Include="Resources\1487716857-user_816351.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
