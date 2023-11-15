@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace StockTracking_Objecs_BryBorj.DAL.DTO
+{
+    public class CategoryDetailDTO
+    {
+        //Propiedades de las categorias
+        public int ID { get; set; }
+        public string CategoryName { get; set; }
+    }
+}
